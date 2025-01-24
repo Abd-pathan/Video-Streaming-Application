@@ -68,11 +68,11 @@ The Video Streaming Application is a modern, full-stack project developed using 
 #### Frontend
 1. Run the Angular application:
    ```bash
-   npm start
+   npm run dev
    ```
 2. Access the application in your browser at:
    ```
-   http://localhost:4200
+   http://localhost:5713
    ```
 
 ## Usage
